@@ -1,14 +1,20 @@
-## Olá 👋 Eu sou Mizael Souto
+## Olá 👋 Eu sou Rebaca Arcanjo
 
-Sou Analista de Sistemas, educador e consultor em tecnologia, com foco em criar soluções inteligentes, escaláveis e seguras. 
+Sou estudante de Desenvolvimento de Sistemas com um profundo interesse em compreender e aplicar tecnologias para melhorar a vida das pessoas. Recentemente, decidi direcionar minha carreira para a Medicina, buscando unir minha paixão por tecnologia com o desejo de cuidar e impactar positivamente a saúde humana.
 
-Atuo como **Consultor Cloud Computing / Data Center Virtual** na **Uppertec**, onde projeto ambientes em **nuvem pública, híbrida e soluções on-premise**, sempre com foco em **alta disponibilidade**, **resiliência**, **monitoramento contínuo** e **recuperação de desastres**. As arquiteturas são desenhadas para suportar o crescimento sustentável das aplicações, atendendo às demandas específicas de cada cliente.
+Durante minha formação em tecnologia, desenvolvi habilidades em programação, resolução de problemas e pensamento analítico. Essas competências são valiosas na Medicina moderna, que cada vez mais integra soluções tecnológicas em diagnósticos, tratamentos e gestão de saúde.
 
-- 💻 Experiência em **Java**, **Kotlin**, **Go (Golang)**, arquitetura de microsserviços e desenvolvimento backend.
-- ☁️ Profundo domínio em **DevOps**, containers, CI/CD, infraestrutura como código e automação.
-- 🔐 Interesso-me por **cibersegurança**, **redes neurais** e **inteligência artificial aplicada a sistemas críticos**.
-- 👨‍🏫 Atualmente, dedico parte do meu tempo ao ensino de tecnologia, produzindo conteúdos e oficinas práticas para alunos do ensino fundamental ao técnico.
-- 📚 Uso este repositório para compartilhar materiais, projetos e experiências com a comunidade.
+💻 Experiência em linguagens como Java, Kotlin e Go (Golang), além de conhecimento em arquitetura de microsserviços e desenvolvimento backend.
+
+☁️ Familiaridade com práticas de DevOps, containers, CI/CD, infraestrutura como código e automação.
+
+🔐 Interesse em cibersegurança, redes neurais e inteligência artificial aplicada a sistemas críticos.
+
+👩‍🏫 Atuei como educadora em tecnologia, desenvolvendo conteúdos e oficinas práticas para alunos do ensino fundamental ao técnico.
+
+📚 Utilizo este espaço para compartilhar materiais, projetos e experiências com a comunidade.
+
+Agora, estou focada em me preparar para os desafios da Medicina, estudando disciplinas como biologia, química e anatomia, e buscando compreender como a tecnologia pode ser aliada na prática médica. Acredito que minha bagagem tecnológica será um diferencial na formação médica, especialmente em áreas como telemedicina, análise de dados clínicos e desenvolvimento de soluções inovadoras para a saúde.
 
 📫 Contato: [LinkedIn](https://www.linkedin.com/in/mizaelsouto) |
 
